@@ -1,14 +1,11 @@
 ------------------------------------------------------------------------------------
-- 👋 Hi, I’m @Wierdfacts, I'm born in 2010
-- 👀 I’m interested in uhhh, everything
-- 🌱 I’m currently learning how to write a book, how to play piano and how to code
+- 👋 Hi, I’m @Wierdfacts, I was born in April, 2010
+- 👀 Currently I’m interested in swift coding
+- 🌱 I’m also currently learning how to play Guitar and how to code
 - 💞️ I’m looking to collaborate on School projects
 - 📫 How to reach me: mikavanleeuwen2010@gmail.com
 - 😄 Pronouns: Micky or Mika
-- ⚡ Fun fact: I'm alive..., BELIEVE MEEE...
-
-- Also I want to walk to China someday so if you're intrested pls contact me.
- Cya at the other side!
+- ⚡ Fun fact: My dream is to walk to China someday
 - -----------------------------------------------------------------------------------
 
 <!---

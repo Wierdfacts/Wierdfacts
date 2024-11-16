@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------
-- 👋 Hi, I’m @Wierdfacts, I was born in April, 2010
-- 👀 Currently I’m interested in swift coding
-- 🌱 I’m also currently learning how to play Guitar and how to code
+- 👋 Hi, I’m @Wierdfacts. Born in April, 2010
+- 👀 Currently interested in swift coding
+- 🌱 Also currently learning how to play Guitar and how to code
 - 💞️ I’m looking to collaborate on School projects
 - 📫 How to reach me: mikavanleeuwen2010@gmail.com
 - 😄 Pronouns: Micky or Mika
